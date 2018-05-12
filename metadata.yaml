@@ -1,0 +1,34 @@
+_repo: La-Flandre-pendant-des-trois-derniers-si-cles_46033
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46033-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kervyn de Lettenhove, Joseph Marie Bruno Constantin, Baron
+    aliases:
+    - Lettenhove, Constantine Bruno Kervyn de
+    - Lettenhove, Joseph Marie Bruno Constantin, Baron Kervyn de
+    birthdate: 1817
+    deathdate: 1891
+    gutenberg_agent_id: '41559'
+    url: http://www.gutenberg.org/2009/agents/41559
+    wikipedia:
+    - http://www.gutenberg.org/fr.wikipedia.org/wiki/Joseph_Kervyn_de_Lettenhove
+    - http://en.wikipedia.org/wiki/Constantine_Bruno,_Baron_Kervyn_de_Lettenhove
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46033'
+  lccn: 08021300
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Flanders -- History'
+title: La Flandre pendant des trois derniers siècles
+url: http://www.gutenberg.org/ebooks/46033
