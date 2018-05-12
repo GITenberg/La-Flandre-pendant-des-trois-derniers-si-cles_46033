@@ -17,6 +17,8 @@ creator:
     - http://www.gutenberg.org/fr.wikipedia.org/wiki/Joseph_Kervyn_de_Lettenhove
     - http://en.wikipedia.org/wiki/Constantine_Bruno,_Baron_Kervyn_de_Lettenhove
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46033#La-Flandre-pendant-des-trois-derniers-si-cles
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-06-19'
 gutenberg_type: Text
